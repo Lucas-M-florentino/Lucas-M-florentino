@@ -1,3 +1,8 @@
+<div>
+<a href="https://github.com/Lucas-M-florentino">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Lucas-M-florentino&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?Lucas-M-florentino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 - 👋 Oi, sou @Lucas-M-florentino sou formado em Engenharia de Computação e gosto muito de resolver problemas usando tecnologia tanto em código quanto em eletrônicos
 - 👀 Tenho interesse em desenvolvimento de aplicações para coletar e tratar dados, particularmente utilizo o Python nessas tarefas;
 - desenvolvimento de aplicações web full-stack, experiencias com API Rest java script, express, nextJS;
